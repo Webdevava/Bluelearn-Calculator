@@ -25,3 +25,5 @@ You can see a live demo of the calculator [here](https://bluelearn-calculator.ve
 - HTML
 - CSS
 - JavaScript
+
+hoping to be noticed by community 
